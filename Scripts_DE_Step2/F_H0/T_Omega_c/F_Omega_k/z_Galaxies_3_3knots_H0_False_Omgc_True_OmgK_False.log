@@ -1,0 +1,114 @@
+#----------------------------------------------------------------------------------
+# Model fitting. Interating using:
+#  - solver:            NLOpt:ln-neldermead
+#  - differentiation:   Numerical differentiantion (forward)
+#.................................
+#  Minimum found with precision: |df|/f =  1.00000e-08 and |dx| =  1.00000e-05
+#  Elapsed time: 00 days, 00:00:03.7919980
+#  iteration            [000242]
+#  function evaluations [000244]
+#  gradient evaluations [000000]
+#  degrees of freedom   [001696]
+#  m2lnL     =     1502.39484119735 (     1464.2049  0.0027210366     2.0437083     1.9248297     4.2240199      1.165799    0.91684701     4.9729754     6.8788732     16.060175 )
+#  Fit parameters:
+#     0.291752320133816   -0.862895059204102   -1.08880640350374    -1.10980782782632    -19.3429854546886    
+#----------------------------------------------------------------------------------
+# Restarting:              yes
+#  - absolute improvement: 879.032074132572      
+#  - relative improvement: 0.369119903900469     
+#  - m2lnL_0  :            2381.42691532993      
+#  - m2lnL_1  :            1502.39484119735      
+#----------------------------------------------------------------------------------
+# Model fitting. Interating using:
+#  - solver:            NLOpt:ln-neldermead
+#  - differentiation:   Numerical differentiantion (forward)
+#.............................
+#  Minimum found with precision: |df|/f =  1.00000e-08 and |dx| =  1.00000e-05
+#  Elapsed time: 00 days, 00:00:03.1095410
+#  iteration            [000202]
+#  function evaluations [000204]
+#  gradient evaluations [000000]
+#  degrees of freedom   [001696]
+#  m2lnL     =     1499.41699127815 (     1465.0056  0.0029794113      1.688705      1.729436     3.9191557     0.7621811    0.92594167     3.6999994     5.5326484     16.150353 )
+#  Fit parameters:
+#     0.290842624909204   -1.01617366986425    -1.02665279137619    -4.65418503627836    -19.3495358942353    
+#----------------------------------------------------------------------------------
+# Restarting:              yes
+#  - absolute improvement: 2.97784991920344      
+#  - relative improvement: 0.00198206878614559   
+#  - m2lnL_1  :            1502.39484119735      
+#  - m2lnL_2  :            1499.41699127815      
+#----------------------------------------------------------------------------------
+# Model fitting. Interating using:
+#  - solver:            NLOpt:ln-neldermead
+#  - differentiation:   Numerical differentiantion (forward)
+#.................
+#  Minimum found with precision: |df|/f =  1.00000e-08 and |dx| =  1.00000e-05
+#  Elapsed time: 00 days, 00:00:01.2449330
+#  iteration            [000080]
+#  function evaluations [000082]
+#  gradient evaluations [000000]
+#  degrees of freedom   [001696]
+#  m2lnL     =     1499.41698930454 (     1465.0054  0.0029935557     1.6882541     1.7287563     3.9192833    0.76163601     0.9256757     3.7015232     5.5343812     16.149106 )
+#  Fit parameters:
+#     0.290857950634564   -1.01598398702363    -1.02685004548949    -4.64951897302489    -19.3495239901988    
+#----------------------------------------------------------------------------------
+# Restarting:              no
+#  - absolute improvement: 1.97361100617854e-06  
+#  - relative improvement: 1.31625226181823e-09  
+#  - m2lnL_2  :            1499.41699127815      
+#  - m2lnL_3  :            1499.41698930454      
+#----------------------------------------------------------------------------------
+# Data used:
+#   - Pantheon+SH0ES Sample STAT+SYS (2022)
+#   - 6dFGRS -- Beutler (2011), BAO Sample R-Dv
+#   - SDSS-DR7-lowz -- Ross (2015), Empirical m2lnp
+#   - SDSS DR12 (final consensus) -- Ross et al. (2016), arXiv:1607.03145; Alam
+#        et al. (2016), arXiv:1607.03155; BAO Sample(D_t / r_sd, DH / r_sd) --
+#        DR16 Compatible
+#   - SDSS DR16 -- Alam et al., PRD 103, 083533 (2021); BAO LRG Sample(D_t /
+#        r_sd, DH / r_sd)
+#   - SDSS DR16 -- Alam et al., PRD 103, 083533 (2021); BAO QSO Sample(D_t /
+#        r_sd, DH / r_sd)
+#   - SDSS DR16 -- Alam et al., PRD 103, 083533 (2021) -- BAO ELG Sample,
+#        Empirical m2lnp
+#   - SDSS DR16 -- Alam et al., PRD 103, 083533 (2021) -- BAO Lyman alpha
+#        autocorrelation Sample, Empirical m2lnp
+#   - SDSS DR16 -- Alam et al., PRD 103, 083533 (2021) -- BAO Lyman alpha QSO
+#        cross-correlation Sample, Empirical m2lnp
+#   - Gomez-Valent 2018 -- arXiv:1802.01505
+#----------------------------------------------------------------------------------
+# Model[03000]:
+#   - NcHICosmo : XCDM - Constant EOS
+#----------------------------------------------------------------------------------
+# Model parameters
+#   -           H0[00]:  70                  [FIXED]
+#   -       Omegac[01]:  0.290857950634564   [FREE]
+#   -       Omegak[02]:  0                   [FIXED]
+#   -      Tgamma0[03]:  2.7245              [FIXED]
+#   -           Yp[04]:  0.24                [FIXED]
+#   -         ENnu[05]:  3.046               [FIXED]
+#   -       Omegab[06]:  0.05                [FIXED]
+#   -          w_0[07]: -1.01598398702363    [FREE]
+#   -          w_1[08]: -1.02685004548949    [FREE]
+#   -          w_2[09]: -4.64951897302489    [FREE]
+#----------------------------------------------------------------------------------
+# Model[14000]:
+#   - NcSNIADistCov : Supernovae Ia Distance Covariance
+#----------------------------------------------------------------------------------
+# Model parameters
+#   -        alpha[00]:  0                   [FIXED]
+#   -         beta[01]:  0                   [FIXED]
+#   -           M1[02]: -19.3495239901988    [FREE]
+#   -           M2[03]: -19.25               [FIXED]
+#   - lnsigma_pecz[04]: -34.5387763949107    [FIXED]
+#   - lnsigma_lens[05]: -34.5387763949107    [FIXED]
+#----------------------------------------------------------------------------------
+# NcmMSet parameters covariance matrix
+#                                                  ----------------------------------------------------------------------------
+# Omegac[03000:01] =  0.2909      +/-  0.01147     |  1           |  0.1602      | -0.1778      | -0.05209     |  0.4629      |
+#    w_0[03000:07] = -1.016       +/-  0.1291      |  0.1602      |  1           | -0.5427      |  0.6061      |  0.7898      |
+#    w_1[03000:08] = -1.027       +/-  0.05199     | -0.1778      | -0.5427      |  1           | -0.6874      | -0.1787      |
+#    w_2[03000:09] = -4.65        +/-  2.772       | -0.05209     |  0.6061      | -0.6874      |  1           |  0.2735      |
+#     M1[14000:02] = -19.35       +/-  0.009742    |  0.4629      |  0.7898      | -0.1787      |  0.2735      |  1           |
+#                                                  ----------------------------------------------------------------------------
