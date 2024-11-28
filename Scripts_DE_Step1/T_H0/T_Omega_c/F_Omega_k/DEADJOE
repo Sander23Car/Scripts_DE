@@ -1,0 +1,53 @@
+
+*** These modified files were found in JOE when it aborted on Fri Sep  9 01:14:13 2022
+*** JOE was aborted because the terminal closed
+
+*** These modified files were found in JOE when it aborted on Fri Sep  9 01:14:20 2022
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+notaknot
+
+*** File '(Unnamed)'
+z_CMB_1080_7knots_H0_True_Omgc_False_OmgK_True.log
+z_CMB_1080_6knots_H0_True_Omgc_False_OmgK_True.log
+z_CMB_1080_8knots_H0_True_Omgc_False_OmgK_True.log
+z_CMB_1080_7knots_H0_True_Omgc_True_OmgK_True.log
+z_CMB_1080_6knots_H0_True_Omgc_True_OmgK_True.log
+z_CMB_1080_8knots_H0_True_Omgc_True_OmgK_True.log
+z_CMB_1080_9knots_H0_True_Omgc_True_OmgK_True.log
+fit_wspline5.py
+nc_hicosmo_de_wspline.o
+nc_hicosmo_de_wspline.lo
+z_CMB_1080_9knots_H0_True_Omgc_True_OmgK_False.log
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Thu Oct 27 16:49:30 2022
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+notaknot
+
+*** File '(Unnamed)'
+z_CMB_1080_5knots_H0_True_Omgc_True_OmgK_True.log
+fit_wspline5.py
+z_CMB_1080_5knots_H0_True_Omgc_False_OmgK_False.log
+fit_wspline5.py
+z_CMB_1080_5knots_H0_True_Omgc_False_OmgK_False.log
+z_CMB_1080_4knots_H0_True_Omgc_False_OmgK_False.log
+z_CMB_1080_6knots_H0_True_Omgc_False_OmgK_True.log
+z_CMB_1080_9knots_H0_True_Omgc_False_OmgK_True.log
+z_CMB_1080_4knots_H0_True_Omgc_True_OmgK_False.log
+z_CMB_1080_7knots_H0_True_Omgc_True_OmgK_False.log
+z_CMB_1080_8knots_H0_True_Omgc_True_OmgK_False.log
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
