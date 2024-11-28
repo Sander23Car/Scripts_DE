@@ -1,0 +1,28 @@
+
+*** These modified files were found in JOE when it aborted on Sat Dec  3 17:05:50 2022
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+notaknot
+
+*** File '(Unnamed)'
+z_CMB_3_5knots_H0_True_Omgc_True_OmgK_True.log
+z_CMB_3_8knots_H0_True_Omgc_True_OmgK_False.log
+z_CMB_3_5knots_H0_True_Omgc_True_OmgK_True.log
+nc_hicosmo_de_wspline.c
+fit_wspline1.py
+z_CMB_1080_5knots_H0_True_Omgc_True_OmgK_True.log
+nc_data_snia.c
+run_wreconst.py
+run_wreconst.py
+z_CMB_3_5knots_H0_True_Omgc_True_OmgK_True.log
+wreconst_wspline5_zf3.0_data_local_Omegak_0.0_0.01.log
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Wed Dec 21 17:25:50 2022
+*** JOE was aborted because the terminal closed
